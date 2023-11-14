@@ -58,5 +58,6 @@ export class YourController {
     // Your protected endpoint logic here
   }
 }
+```
 
 Feel free to extend and customize the project based on your requirements. Happy coding!'
